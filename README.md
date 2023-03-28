@@ -11,10 +11,11 @@ A univariate time series analysis and modeling of solar power output in the Unit
 
 
 
-
-
+## Repository Structure
+```
 ├── data
 ├── .gitignore
 ├── README.md 
 ├── Solar_Power_Output_Time_Series_Notebook.ipynb
 └── presentation.pdf
+```
