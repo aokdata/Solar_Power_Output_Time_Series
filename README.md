@@ -6,3 +6,15 @@ Aidan O'Keefe
 
 # Overview
 A univariate time series analysis and modeling of solar power output in the United States. 
+
+
+
+
+
+
+
+├── data
+├── .gitignore
+├── README.md 
+├── Solar_Power_Output_Time_Series_Notebook.ipynb
+└── presentation.pdf
