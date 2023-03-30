@@ -42,8 +42,8 @@ I would testing this forecast in the next year and calculating errors to see if 
 
 
 ## Repository Structure
-├── [data](https://github.com/aokdata/Solar_Power_Output_Time_Series/tree/main/data)
-├── .gitignore
-├── README.md 
-├── [Solar_Power_Output_Time_Series_Notebook.ipynb](https://github.com/aokdata/Solar_Power_Output_Time_Series/blob/main/Solar_Power_Output_Time_Series_Notebook.ipynb)
-└── [presentation.pdf](https://github.com/aokdata/Solar_Power_Output_Time_Series/blob/main/presentation.pdf)
+├── [data](https://github.com/aokdata/Solar_Power_Output_Time_Series/tree/main/data)<br>
+├── .gitignore <br>
+├── README.md <br>
+├── [Solar_Power_Output_Time_Series_Notebook.ipynb](https://github.com/aokdata/Solar_Power_Output_Time_Series/blob/main/Solar_Power_Output_Time_Series_Notebook.ipynb) <br>
+└── [presentation.pdf](https://github.com/aokdata/Solar_Power_Output_Time_Series/blob/main/presentation.pdf) <br>
