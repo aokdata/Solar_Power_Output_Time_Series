@@ -8,7 +8,7 @@ Aidan O'Keefe
 Univariate time series analysis and modeling project of solar power output in the United States.
 
 # Business Overview
-The North American Electric Reliability Corporation (NERC) regulates the electrical grid in the United States, Canada, and the northern part of Baja California, Mexico. They have asked us to try to forecast solar output in order to help them manage the US grid better.
+The North American Electric Reliability Corporation (NERC) regulates the electrical grid in the United States, Canada, and the northern part of Baja California, Mexico. They want to know how much power to expect from renewable sources so they can better prepare for power output variability. NERC has asked us to try to forecast solar output in order to help them manage the US grid better.
 
 # Data Overview
 Data for this project was taken from the U.S. Energy Information Administration's Electricy Data Browser. The data has monthly frequency from Jan 2001 to Dec 2022 of solar output in thousand megawatthours. Each row is a location with power output grouped by individual state, region, and US Total.
@@ -30,7 +30,7 @@ An ARIMA (4,0,1) model was chosen as the final model based on it's AIC and RMSE.
 
 
 # Recommendations
-I would recommend that NERC create a forecast to predict supply and avoid blackouts/grid failure caused by overproduction. The NERC can then prepare plan to meet seasonal supply and demand in conjunction with traditional energy sources.
+I would recommend that NERC create a forecast to predict solar power supply and avoid blackouts/grid failure caused by under and overproduction. The NERC can then prepare plan to meet seasonal supply and demand in conjunction with other energy sources.
 
 # Next Steps
 I would testing this forecast in the next year and calculating errors to see if the model is accurate enough to be helpful moving forwad. I would also add in data on the number on power plants as well as environmental factors (weather, solar irradiation) so the model accounts for more external factors. In the future, I would look to repeat this time series modeling and forecasting at the regional and state level in order to provide more actionable data.
