@@ -29,7 +29,7 @@ An ARIMA (4,0,1) model was chosen as the final model based on it's AIC and RMSE.
 ![ARIMA401_Solar_Predictions](https://user-images.githubusercontent.com/120589094/228961073-a4288d5b-e99b-43f6-ad79-480df491f146.png)
 
 
-# Reccommendations
+# Recommendations
 I would recommend that NERC create a forecast to predict supply and avoid blackouts/grid failure caused by overproduction. The NERC can then prepare plan to meet seasonal supply and demand in conjunction with traditional energy sources.
 
 # Next Steps
